@@ -1,0 +1,22 @@
+.comida {
+width: 100px;
+border: 1px dashed red;
+border-radius: 50%;
+box-shadow: inset;
+align-items: center ;
+}
+
+img#panela{
+    width: 100px;
+    border: 1px dashed red;
+    border-radius: 50%;
+    box-shadow: inset;
+    align-items: center;
+} 
+div{
+background-color: blue;
+display: flex;
+height: 500px;
+align-items: center;
+justify-content: space-evenly;
+}
